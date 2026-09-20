@@ -14,9 +14,9 @@ Estudante de Desenvolvimento de Sistemas
 
 Sou estudante de **Desenvolvimento de Sistemas**, interessada em tecnologia e desenvolvimento de aplicações.
 
-Tenho experiência com desenvolvimento **Web, Mobile e Backend**, e gosto de aprender novas tecnologias por meio de projetos práticos.
+Tenho experiência no desenvolvimento de **aplicações Web e Mobile**, utilizando tecnologias como **React, React Native e Expo**, além de conhecimentos em **Backend e bancos de dados**.
 
-Atualmente, estou aprimorando meus conhecimentos em programação, buscando evoluir constantemente e transformar ideias em soluções funcionais.
+Gosto de aprender novas tecnologias por meio de projetos práticos e estou constantemente aprimorando meus conhecimentos em programação.
 
 ---
 
@@ -34,9 +34,9 @@ Atualmente, estou aprimorando meus conhecimentos em programação, buscando evol
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camile-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=camilly-santos&show_icons=true&theme=tokyonight&include_all_commits=true">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camile-Santos&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilly-santos&layout=compact&langs_count=8&theme=tokyonight">
 
 </div>
 
@@ -46,7 +46,7 @@ Atualmente, estou aprimorando meus conhecimentos em programação, buscando evol
 
 <div align="center">
 
-<a href="https://github.com/Camile-Santos">
+<a href="https://github.com/camilly">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -65,5 +65,20 @@ Atualmente, estou aprimorando meus conhecimentos em programação, buscando evol
 ## 🐍 Minhas contribuições
 
 <div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/camilly-santos/camilly-santos/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/camilly-santos/camilly-santos/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/camilly-santos/camilly-santos/output/github-contribution-grid-snake.svg"
+  >
+</picture>
 
 </div>
